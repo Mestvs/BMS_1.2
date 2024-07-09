@@ -1,0 +1,15 @@
+users table
+ $table->id();
+            $table->string('name');
+            $table->string('email')->unique();
+            //new
+            $table->string('phone')->nullable();
+            $table->string('role')->nullable();
+            $table->string('signature')->nullable();
+            $table->string('account_status')->default('Not Activated');
+            $table->timestamp('email_verified_at')->nullable();
+            $table->string('password');
+            $table->rememberToken();
+            $table->foreignId('current_team_id')->nullable();
+            $table->string('profile_photo_path', 2048)->nullable();
+            $table->timestamps();

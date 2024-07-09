@@ -1,0 +1,135 @@
+body{
+    background-image: url("images/inde.jpg");
+    margin-left: 10%;
+    margin-right: 10%;
+
+}
+.nav{
+    width: 100%;
+    height: 130px;
+    float: left;
+
+}
+
+.nav img
+{
+    width: 100%;
+    height: 130px;
+}
+.header{
+    float: left;
+    height: 500px;
+    width: 100%;
+    /*background-color:blue;*/
+    margin-top: 1px;
+    margin-bottom: 2%;
+    border-radius: 9px;
+    padding-left: 10%;
+}
+.header ul li
+{
+    display: inline;
+    float: left;
+    padding-left: 30px;
+
+}
+.header ul li a
+{
+    text-decoration: none;
+    color: #041a3d;
+    font-family: "Times New Roman";
+    font-size: medium;
+}
+.header ul li a:hover{
+    background-color:  #1f618d ;
+    color: yellow;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 20px;
+    font-style: normal;
+    font-family: SansSerif;
+}
+.list{
+    position: absolute;
+    display: none;
+    background-color:  #1a5276;
+    min-width: 170px;
+    margin-top: 10px;
+
+}
+.list a{
+    display: block;
+}
+.drop:hover .list{
+    display: block;
+}.drop:hover .list a:hover{
+     background-color:  #2980b9;
+     display: block;
+ }
+.main1
+{
+    width: 27%;
+    height: 500px;
+    float: left;
+    background-color:#5d6d7e;
+}
+.main2
+{
+    width: 100%;
+    height: 500px;
+    float: left;
+}
+.main2 h2{
+    font-family: times new roman;
+    font-style: italic;
+}
+.main3
+{
+    width: 27%;
+    height: 500px;
+    float: left;
+    /* background-color:#f0b27a*/
+;
+}
+.footer
+{
+    width:100%;
+    height: 45px;
+    float: left;
+    background-color: #17202a;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    font-family: "Times New Roman";
+}
+.login{
+     padding-top:20px;
+     color:green;
+     background-color:#E1E1E1;
+     border-radius:12px;
+     margin-top:20px;
+ }
+.login p
+{
+    padding-left:60px;
+    color:green;
+    font-size:23px;
+}
+.left{
+    margin-top:12px;
+    margin-left:50%px;
+    margin-left:5px;
+    border-radius:12px
+}.left p{
+     color:blue;
+     margin-left:30% ;
+     font-size:20px;
+
+ }
+.lo{
+    margin-left:25%;
+}
+
+

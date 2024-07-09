@@ -1,0 +1,39 @@
+/////plan
+
+$lang['planpreparationf'] = 'Plan Preparation Form';
+$lang['p_updation_form'] = 'Plan Updation Form';
+$lang['plan_list'] = 'Plan List';
+$lang['plandescription'] = 'Description';
+$lang['amount'] = 'Total Amount';
+$lang['date'] = 'Plan Date';
+$lang['plantype'] = 'Plan Type';
+$lang['yearly'] = 'Annual';
+$lang['quarter'] = 'Quarter';
+$lang['monthly'] = 'Monthly';
+$lang['about_plan'] = 'Mention your plan description';
+$lang['file'] = 'File';
+$lang['b_update'] = 'Update';
+$lang['e_plan'] = 'Edit Plan';
+
+$lang['annual_plan'] = 'Annual Plan ';
+
+
+
+$lang['prepareplan'] = 'እቅድ ያዘጋጁ';
+$lang['annual_plan'] = 'ዓመታዊ እቅድ ';
+
+$lang['plan_list'] = 'የእቅድ ዝርዝር';
+$lang['file'] = 'ፋይል';
+$lang['p_updation_form'] = 'የእቅድ ማስተካኪያ ቅፅ';
+
+$lang['planpreparationf'] = 'እቅድ ዝግጅት ቅጽ';
+$lang['plandescription'] = 'መግለጫ';
+$lang['plantype'] = 'የእቅድ ዓይነት';
+$lang['yearly'] = 'Annual';
+$lang['quarter'] = 'Quarter';
+$lang['monthly'] = 'Monthly';
+$lang['l_ekid'] = 'ልማትእቅድ';
+$lang['p_s_selection'] = 'የሚልኩለትን ይምረጡ';
+$lang['e_plan'] = 'እቅድ ያርትዑ';
+$lang['approve_plan'] = 'እቅድን ያጽድቁ';
+$lang['s_plan'] = 'እቅድ ይላኩ';

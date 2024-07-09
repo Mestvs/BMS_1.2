@@ -1,0 +1,36 @@
+
+$lang['userr'] = 'ተጠቃሚ';
+$lang['a_registration'] = 'ምዝገባ ይፍቀዱ';
+$lang['postnews'] = 'ለጥፍ ዜና';
+$lang['plan'] = 'እቅድ';
+$lang['m_plan'] = 'እቅድ';
+$lang['budget'] = 'በጀት';
+$lang['m_budget'] = 'በጀት';
+$lang['payment'] = 'ክፍያ';
+$lang['m_directorate'] = 'ዳይሬክቶረት';
+$lang['m_role'] = 'የስራ ክፍል';
+
+$lang['b_codes'] = 'የበጀት ኮዶች';
+$lang['View_News'] = ' ዜና ይመልከቱ';
+$lang['Message'] = 'መልእክት';
+////
+$lang['g_report'] = 'ሪፖርት ያዉጡ';
+
+
+
+
+$lang['userr'] = 'Manage User';
+$lang['a_registration'] = 'Allow Registration';
+$lang['postnews'] = 'Post News';
+$lang['m_plan'] = 'Manage Plan';
+$lang['plan'] = 'plan';
+$lang['m_budget'] = 'Manage Budget';
+$lang['budget'] = 'Budget';
+$lang['payment'] = 'Payment';
+$lang['m_directorate'] = 'Manage Directorate';
+$lang['m_role'] = 'Manage Roles';
+$lang['b_codes'] = 'Budget Codes';
+$lang['View_News'] = ' View News';
+$lang['Message'] = 'Message';
+//
+$lang['g_report'] = 'Generate report';

@@ -1,0 +1,22 @@
+thead{
+font-family: all;
+color: black; 
+font-size:medium;
+}
+tbody{
+    font-family: all;
+    color: black;
+    font-size:small;
+}
+.block-content.collapse.in{
+    font-size:large;
+}
+
+.alert.alert-info{
+    font-family: all;
+    font-size:large;
+}
+#message{
+    position:sticky ;top:10%; 
+    margin-left:0.5%; 
+}
